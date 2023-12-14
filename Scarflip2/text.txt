@@ -1,0 +1,13 @@
+ScarFlip
+
+A animation for flip 0 as Tony Montana AKA “Scarface”
+
+In progress of making both computers crashed (  sending packets?) idk however this is my first attempt at making anything and post a code/repo in git.
+
+It is out of order and will need some tweaks and I’d love to see it up and running. Any contributions would be appreciated. 
+
+Let’s make this happen! 
+
+
+
+
