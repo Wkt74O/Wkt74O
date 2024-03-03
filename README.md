@@ -4,9 +4,9 @@ README.md <!--
 **Wkt74O/Wkt74O** is a ✨ _special_ ✨ repository.
 
 - 🔭 I’m currently working on [ AWS Cloud & Sys Ops ] 
--![PNG image](https://github.com/Wkt74O/Wkt74O/assets/147152652/ae1a90a1-0998-4281-a422-34480157f59c) 
-just finished GCS, Google Cloud Dev0ps,cL0uD Sec, G-Suite  ![PNG image](https://github.com/Wkt74O/Wkt74O/assets/147152652/03a40688-2122-4c28-8310-c4f083086c61)
- A-Z</>![PNG image](https://github.com/Wkt74O/Wkt74O/assets/147152652/f508fd67-628b-44c7-ab3d-8f34124008b9) Web dev</> 
+
+
+
 - 🌱 I’m currently learning .. AWS Solution Architect AWS DevOps Engineer AWS SysOps Administrator AWS Developer 
 AWS Cloud Practictioner
 - 👯 I’m looking to collaborate on ...Pentest, Pentest & Pentest
